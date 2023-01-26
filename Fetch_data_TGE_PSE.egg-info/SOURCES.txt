@@ -1,0 +1,7 @@
+setup.py
+Fetch_data_TGE_PSE.egg-info/PKG-INFO
+Fetch_data_TGE_PSE.egg-info/SOURCES.txt
+Fetch_data_TGE_PSE.egg-info/dependency_links.txt
+Fetch_data_TGE_PSE.egg-info/entry_points.txt
+Fetch_data_TGE_PSE.egg-info/requires.txt
+Fetch_data_TGE_PSE.egg-info/top_level.txt

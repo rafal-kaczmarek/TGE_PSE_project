@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    Fetch_data_TGE_PSE=fetch_data:download_data
+    
