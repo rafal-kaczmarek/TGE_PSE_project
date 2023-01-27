@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='Fetch_data_TGE_PSE',
     packages=find_packages(),
-    email='rafal.kaczmarek@axpo.pl',
+    email='kaczmarek.rafal98@gmail.com',
     author='Rafal Kaczmarek',
     install_requires=[
         'click',
